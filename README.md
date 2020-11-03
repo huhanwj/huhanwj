@@ -11,7 +11,7 @@
 - 🤔 Headache with ath9k driver development
 - 📫 How to reach me: huhanwj@gmail.com
 - 😄 Pronouns: hhgg
-- ⚡ Fun fact: 单推松糕 (松岡 茉優,  Matsuoka Mayu)
+- ⚡ Fun fact: 萌新垃圾佬
 
 **实事求是！**
 
