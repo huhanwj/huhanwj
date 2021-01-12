@@ -6,9 +6,9 @@
 -->
 
 - 🔭 CUHK IE Undergraduate
-- 🌱 Currently learning Reinforce Learning
+- 🌱 Currently wandering
 - 💻 Working on Wireless Sensing
-- 🤔 Headache with ath9k driver development
+- 🤔 Headache with Real-Time WiFi functioning
 - 📫 How to reach me: huhanwj@gmail.com
 - 😄 Pronouns: hhgg
 - ⚡ Fun fact: 萌新垃圾佬
