@@ -19,7 +19,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&count_private=true">
 </a>
 <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhanwj&exclude_repo=huhanwj.github.io&langs_count=8&layout=compact">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhanwj&exclude_repo=huhanwj.github.io&langs_count=8&layout=compact&count_private=true">
 </a>
 
 
