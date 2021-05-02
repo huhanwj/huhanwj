@@ -11,7 +11,7 @@
 - 🤔 Headache with Real-Time WiFi functioning
 - 📫 How to reach me: huhanwj@gmail.com
 - 😄 Pronouns: hhgg
-- ⚡ Fun fact: 萌新垃圾佬
+- ⚡ Fun fact: 萌新垃圾佬; Fan of Sakamichi Groups (Nogizaka 46 & Sakurazaka 46/Keyakizaka 46) 
 
 **实事求是！**
 
