@@ -13,7 +13,7 @@
 - 😄 Pronouns: hhgg
 - ⚡ Fun fact: 
     * Enthusiast on second-handed PC hardware
-    * Fan of Sakamichi Groups (Nogizaka 46 & Sakurazaka 46/Keyakizaka 46 & Hinatazaka46/Hiragana Keyakizaka46) 
+    * Fan of Sakamichi Groups (Nogizaka46 & Sakurazaka46/Keyakizaka46 & Hinatazaka46/Hiragana Keyakizaka46) 
 
 **实事求是！**
 
