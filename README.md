@@ -6,7 +6,7 @@
 -->
 
 - 🔭 CUHK IE Research Assistant
-- 🌱 Currently working on embedded system
+- 🌱 Currently working on embedded system (RPi 4B+ and NVIDIA Jetson Nano)
 - 💻 Working on Wireless Sensing and Real-Time WiFi
 - 🤔 Headache with Real-Time WiFi functioning
 - 📫 How to reach me: huhanwj@gmail.com
