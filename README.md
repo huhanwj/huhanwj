@@ -5,9 +5,9 @@
 
 -->
 
-- 🔭 CUHK IE Undergraduate
-- 🌱 Currently wandering
-- 💻 Working on Wireless Sensing
+- 🔭 CUHK IE Research Assistant
+- 🌱 Currently working on embedded system
+- 💻 Working on Wireless Sensing and Real-Time WiFi
 - 🤔 Headache with Real-Time WiFi functioning
 - 📫 How to reach me: huhanwj@gmail.com
 - 😄 Pronouns: hhgg
