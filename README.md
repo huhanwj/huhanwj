@@ -9,7 +9,7 @@
 - 🌱 Currently working on embedded system (RPi 4B+ and NVIDIA Jetson Nano)
 - 💻 Working on Wireless Sensing and Real-Time WiFi
 - 🤔 Headache with Real-Time WiFi functioning
-- 📫 How to reach me: huhanwj@gmail.com
+- 📫 How to reach me: hanhu@ie.cuhk.edu.hk
 - 😄 Pronouns: hhgg
 - ⚡ Fun fact: 
     * Enthusiast on second-handed PC hardware
