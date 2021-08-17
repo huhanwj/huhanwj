@@ -13,7 +13,8 @@
 - 😄 Pronouns: hhgg
 - ⚡ Fun fact: 
     * Enthusiast on second-handed PC hardware
-    * Fan of Sakamichi Groups (Nogizaka46 & Sakurazaka46/Keyakizaka46 & Hinatazaka46/Hiragana Keyakizaka46) 
+    * Fan of Sakamichi Groups (Nogizaka46 & Sakurazaka46/Keyakizaka46 & Hinatazaka46/Hiragana Keyakizaka46)
+    * Some thoughts (in Simplified Chinese) are logged in [irregular_logs](https://github.com/han-storage/irregular-logs)
 
 **实事求是！**
 
