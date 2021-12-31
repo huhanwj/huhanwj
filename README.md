@@ -6,9 +6,9 @@
 -->
 
 - 🔭 CUHK IE Research Assistant
-- 🌱 Currently working on customizing ath9k driver 
-- 💻 Working on Wireless Sensing and Real-Time WiFi
-- 🤔 Headache with Real-Time WiFi functioning
+- 🌱 Currently working on customizing ath9k driver and 802.11ah testing
+- 💻 Research on Wireless Sensing
+- 🤔 Headache with Commodity Wi-Fi PCF functioning
 - 📫 How to reach me: hanhu@cuhk.edu.hk
 - 😄 Pronouns: hhgg
 - ⚡ Fun fact: 
