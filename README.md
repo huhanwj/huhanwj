@@ -26,4 +26,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhanwj&exclude_repo=huhanwj.github.io&langs_count=8&layout=compact&count_private=true">
 </a>
 -->
-![my snake animation](https://raw.githubusercontent.com/huhanwj/huhanwj/output/github-contribution-grid-snake.svg)
+
+<div align="center"><img src="https://raw.githubusercontent.com/huhanwj/huhanwj/output/github-contribution-grid-snake.svg">
