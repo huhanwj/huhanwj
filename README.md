@@ -19,7 +19,7 @@
 **实事求是！**
 
 <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&count_private=true&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&count_private=true&theme=buefy">
 </a>
 
 <a href="#">
