@@ -19,12 +19,11 @@
 **实事求是！**
 
 <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&count_private=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&count_private=true&theme=tokyonight">
 </a>
-<!---
+
 <a href="#">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhanwj&exclude_repo=huhanwj.github.io&langs_count=8&layout=compact&count_private=true">
 </a>
--->
 
-<div align="center"><img src="https://raw.githubusercontent.com/huhanwj/huhanwj/output/github-contribution-grid-snake.svg">
+<div align="left"><img src="https://raw.githubusercontent.com/huhanwj/huhanwj/output/github-contribution-grid-snake.svg">
