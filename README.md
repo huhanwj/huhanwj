@@ -15,7 +15,8 @@
     * Enthusiast on second-handed PC hardware
     * Fan of Sakamichi Groups (Nogizaka46 & Sakurazaka46/Keyakizaka46 & Hinatazaka46/Hiragana Keyakizaka46)
     * Some thoughts (in Simplified Chinese) are logged in [irregular_logs](https://github.com/han-storage/irregular-logs)
-
+    * Person in avatar is 齋藤飛鳥／さいとうあすか Saitō Asuka.
+    
 **实事求是！**
 <!---
 <a href="#">
