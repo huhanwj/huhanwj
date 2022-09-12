@@ -9,7 +9,7 @@
 - 🌱 Currently working on FTM testing on Intel Wireless Cards
 - 💻 Research on Wireless Sensing
 - 🤔 Headache with Mobility Wi-Fi Sensing and Multipath effects
-- 📫 How to reach me: hanhu@cuhk.edu.hk
+- 📫 How to reach me: hanhu@link.cuhk.edu.hk or huhanwj@gmail.com
 - 😄 Pronouns: hhgg
 - ⚡ Fun fact: 
     * Enthusiast on second-handed PC hardware
