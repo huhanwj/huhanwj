@@ -5,7 +5,7 @@
 
 -->
 
-- 🔭 CUHK IE Research Assistant
+- 🔭 PhD. Student in CUHK IE
 - 🌱 Currently working on FTM testing on Intel Wireless Cards
 - 💻 Research on Wireless Sensing
 - 🤔 Headache with Mobility Wi-Fi Sensing and Multipath effects
