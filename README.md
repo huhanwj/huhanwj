@@ -18,15 +18,9 @@
     * Person in avatar is 齋藤飛鳥／さいとうあすか Saitō Asuka.
     
 **实事求是！**
-<!---
-<a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&count_private=true&theme=buefy">
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhanwj&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhanwj&exclude_repo=huhanwj.github.io&langs_count=8&layout=compact&count_private=true">
-</a>
--->
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=huhanwj&show_icons=true&count_private=true&theme=buefy" alt="huhanwj" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhanwj&exclude_repo=huhanwj.github.io&langs_count=8&layout=compact&count_private=true&theme=buefy" alt="huhanwj" align = "center"/></p>
 
