@@ -6,7 +6,7 @@
 -->
 
 - 🔭 PhD. Student in CUHK IE
-- 🌱 Currently working on FTM testing on Intel Wireless Cards
+- 🌱 Currently working on pulse shaping studies
 - 💻 Research on Wireless Sensing
 - 🤔 Headache with Mobility Wi-Fi Sensing and Multipath effects
 - 📫 How to reach me: hanhu@link.cuhk.edu.hk or huhanwj@gmail.com
