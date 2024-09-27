@@ -6,15 +6,14 @@
 -->
 
 - 🔭 PhD. Student in CUHK IE
-- 🌱 Currently working on pulse shaping studies
-- 💻 Research on Wireless Sensing
+- 🌱 Currently working on latency and signal processing stuff
+- 💻 Research on Wireless Sensing & Computer Networks
 - 🤔 Headache with Mobility Wi-Fi Sensing and Multipath effects
 - 📫 How to reach me: hanhu@link.cuhk.edu.hk or huhanwj@gmail.com
 - 😄 Pronouns: hhgg
-- ⚡ Fun fact: 
+- ⚡ Fun facts: 
     * Enthusiast on second-handed PC hardware
-    * Fan of Sakamichi Groups (Nogizaka46 & Sakurazaka46/Keyakizaka46 & Hinatazaka46/Hiragana Keyakizaka46)
-    * Some thoughts (in Simplified Chinese) are logged in [irregular_logs](https://github.com/han-storage/irregular-logs)
+    * Fan of Sakamichi Groups (Nogizaka46 & Sakurazaka46)
     * Person in avatar is 佐々木 舞香／ささき まいか Sasaki Maika.
     
 **实事求是！**
