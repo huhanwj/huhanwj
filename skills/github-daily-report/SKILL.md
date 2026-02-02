@@ -42,6 +42,23 @@ description: 自动获取 GitHub 今日 commits，使用 LLM 智能生成工作�
 
 配置文件存储在 `~/.config/github-daily-report/config.json`
 
+### 手动配置方式
+
+你可以直接创建配置文件：
+
+```bash
+mkdir -p ~/.config/github-daily-report
+cp config.sample.json ~/.config/github-daily-report/config.json
+# 然后编辑 config.json 填入你的信息
+```
+
+或者通过脚本交互式配置：
+
+```bash
+cd ~/.kimi/skills/github-daily-report/scripts
+python config_manager.py
+```
+
 ## Notion 数据库要求
 
 数据库需要包含以下字段：
