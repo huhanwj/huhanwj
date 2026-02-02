@@ -2,7 +2,10 @@
   "github_token": "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "github_username": "huhanwj",
   "repositories": [
-    "huhanwj/project1",
-    "huhanwj/project2"
+    "huhanwj/RGB-Th-Benchmark",
+    "huhanwj/paper-reading",
+    "huhanwj/Network-Log-Agent",
+    "huhanwj/VLM-Thermal-HRI",
+    "huhanwj/Pouring-Agent"
   ]
 }
