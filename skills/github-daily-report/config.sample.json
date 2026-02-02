@@ -1,0 +1,10 @@
+{
+  "github_token": "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "github_username": "huhanwj",
+  "repositories": [
+    "huhanwj/project1",
+    "huhanwj/project2"
+  ],
+  "notion_token": "secret_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "notion_database_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
