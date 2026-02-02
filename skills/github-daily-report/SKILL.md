@@ -179,10 +179,32 @@ Kimi 拿到 commits 数据后会：
 
 | 脚本 | 用途 |
 |------|------|
-| `generate_report_v2.py` | **主脚本** - 获取详细 commits 并生成 LLM 提示（推荐） |
+| `generate_report_flexible.py` | **推荐** - 灵活版，支持自定义时间范围和指定 Notion 位置 |
+| `generate_report_v2.py` | 支持分时段创建/追加日报 |
 | `fetch_commits_with_diff.py` | 获取 commits 及详细改动信息 |
 | `fetch_commits.py` | 简单版本，只获取基础 commit 信息 |
+| `fetch_all_commits.py` | 搜索所有仓库的 commits |
 | `config_manager.py` | 配置管理工具 |
+
+---
+
+## 使用场景示例
+
+### 场景：跨天统计（如凌晨工作算前一天）
+
+```bash
+python generate_report_flexible.py
+# 选择 2) 自定义日期范围
+# 开始: 2026-02-02 00:00
+# 结束: 2026-02-03 06:00  （凌晨6点前都算2月2日）
+# 日报日期: 2026-02-02 (Feb 02)
+# Notion 位置: 25-26
+```
+
+然后复制输出的提示文本到 Kimi CLI，Kimi 会：
+1. 在 Notion 的 "25-26" 页面下查找/创建 "2026-02-02" 的日报
+2. 生成通俗易懂的工作日报
+3. 推送到指定位置
 
 ---
 
