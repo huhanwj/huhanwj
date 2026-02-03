@@ -6,12 +6,13 @@
 -->
 
 - 🔭 PhD. Student in CUHK IE
-- 🌱 Currently working on latency and signal processing stuff
-- 💻 Research on Wireless Sensing & Computer Network Systems
+- 🌱 Currently working on agentic AI on robotics stuff
+- 💻 Research on Wireless Sensing & Wireless Network Systems over Agentic AI
 - 📫 How to reach me: hanhu@link.cuhk.edu.hk or huhanwj@gmail.com
 - ⚡ Fun facts: 
     * Enthusiast on second-handed PC hardware
     * Fan of Sakamichi Groups (Nogizaka46 & Sakurazaka46)
+    * My avatar is a moe-ified Elaina from 魔女の旅々
    
 <aa>
 <!---
